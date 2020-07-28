@@ -83,6 +83,9 @@
 .testimonial-content {
     margin-bottom: 50px;
 }
+	.service-content p {
+    margin-bottom: 40px;
+}
 
 }
 @media (max-width: 575px){

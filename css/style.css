@@ -53,6 +53,7 @@ header ul li:first-child a{
     text-align: center;
     color: white;
     font-weight: 500;
+    margin-bottom: 50px;
 }
 .header-content button{
     color: white;
